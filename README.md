@@ -13,7 +13,7 @@ deployed and usable.
 ## Featured projects
 | Project | What it is |
 |---|---|
-| [Handoff](https://github.com/lrdtms/Handoff) | Self-hosted, no-account file sharing. Upload, get a link, recipients download one zip, and links expire. .NET 9, Blazor WebAssembly, MySQL, S3 storage. |
+| [Yeeted](https://github.com/lrdtms/Handoff) | Self-hosted, no-account file sharing. Upload, get a link, recipients download one zip, and links expire. .NET 9, Blazor WebAssembly, MySQL, S3 storage. |
 | [Herely](https://herely.co.za) | Live QR-code attendance check-in app with an admin dashboard. Node/Express, React (Vite), Postgres, Docker. |
 | [IntelTPS](https://github.com/lrdtms/PythonTenderProject) | AI-assisted tender preparation for South African construction subcontractors. FastAPI, Docker, CI. Group project. |
 | [StudentClockin](https://github.com/lrdtms/StudentClockin) | .NET student attendance/clock-in app. |
