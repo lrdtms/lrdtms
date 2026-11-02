@@ -16,9 +16,9 @@ deployed and usable.
 | [Yeeted](https://github.com/lrdtms/Handoff) | Self-hosted, no-account file sharing. Upload, get a link, recipients download one zip, and links expire. .NET 9, Blazor WebAssembly, MySQL, S3 storage. |
 | [Herely](https://herely.co.za) | Live QR-code attendance check-in app with an admin dashboard. Node/Express, React (Vite), Postgres, Docker. |
 | [IntelTPS](https://github.com/lrdtms/PythonTenderProject) | AI-assisted tender preparation for South African construction subcontractors. FastAPI, Docker, CI. Group project. |
-| [StudentClockin](https://github.com/lrdtms/StudentClockin) | .NET student attendance/clock-in app. |
+| [StudentClockin](https://github.com/lrdtms/StudentClockin) | Windows attendance app where students tap NFC cards to clock in and out. .NET MAUI, MySQL, ACR122U reader. |
 | [District Sports League](https://github.com/lrdtms/districtsportsleague) | Live league website on a custom domain. |
-| [MauiBankingApp](https://github.com/lrdtms/MauiBankingApp) | Cross-platform banking app built with .NET MAUI. |
+| [Rejuvenate](https://github.com/lrdtms/Rejuvenate) | Multi-page website for the Rejuvenate movement, with Cape Town and Durban gathering pages. Static HTML, CSS and JS. |
 | [kimi-switch](https://github.com/lrdtms/kimi-switch) | Claude Code skill that toggles between Anthropic and Moonshot Kimi APIs. |
 
 ## Tech
